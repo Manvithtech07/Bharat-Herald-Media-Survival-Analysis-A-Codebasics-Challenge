@@ -31,3 +31,7 @@ This repository contains the core components of the analysis:
 - DAX  
 - Git and GitHub
 
+## Dashboard
+<img width="1149" height="643" alt="Executive Overview" src="https://github.com/user-attachments/assets/5f947f81-a062-4b69-afc8-e7440985aeaa" />
+<img width="1147" height="643" alt="Operational Efficiency   Category Analysis" src="https://github.com/user-attachments/assets/2c27e07b-4082-448b-9dd1-9fe43568f7ab" />
+
