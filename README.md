@@ -1,4 +1,4 @@
-# Bharat-herald-media-analysis - Codebasics - Resume Project Challenge
+# Bharat Herald - Media Survival Analysis - A Codebasics Challenge - (Power BI & MySQL)
 Providing Insights to Guide a Legacy Newspaper’s Survival in a Post-COVID Digital Era
 ---
 Project Status - In Progress
