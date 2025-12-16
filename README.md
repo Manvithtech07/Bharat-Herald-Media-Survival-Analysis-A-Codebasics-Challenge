@@ -1,7 +1,7 @@
 # Bharat Herald - Media Survival Analysis - A Codebasics Challenge - (PowerBI & MySQL)
 Providing Insights to Guide a Legacy Newspaper’s Survival in a Post-COVID Digital Era
 ---
-Project Status - In Progress
+Project Status - Completed
 
 "Bharat Herald," a 70-year-old legacy newspaper. They are facing an "existential crisis". Their print circulation has been cut in half (from 1.2M to 560k) between 2019-2024. The pandemic accelerated the shift to digital, but their digital pilot in 2021 failed, costing them money and advertiser confidence.
 
