@@ -1,4 +1,4 @@
-# Bharat-herald-media-analysis - Codebasics - Resume Project Challenge
+# Bharat Herald - Media Survival Analysis - A Codebasics Challenge - (PowerBI & MySQL)
 Providing Insights to Guide a Legacy Newspaper’s Survival in a Post-COVID Digital Era
 ---
 Project Status - In Progress
@@ -30,4 +30,11 @@ This repository contains the core components of the analysis:
 - Power BI  
 - DAX  
 - Git and GitHub
+
+## Final Dashboard
+<img width="1148" height="639" alt="1 Executive Overview" src="https://github.com/user-attachments/assets/9f975f0f-a019-44dc-8fae-6ffccbf3eb10" />
+
+<img width="1143" height="640" alt="2 Operational Efficiency   Category Analysis" src="https://github.com/user-attachments/assets/df7e0df8-e02c-477f-9ec0-2f3d5b64cc0a" />
+
+<img width="1147" height="637" alt="3 Digital Transformation Roadmap" src="https://github.com/user-attachments/assets/5b896c9f-a41c-4ca9-9a0d-91e65db90123" />
 
